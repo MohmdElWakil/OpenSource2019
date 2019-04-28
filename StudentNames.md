@@ -1,7 +1,5 @@
-## JavaScript for Kids Task2
+# Github_Project
 
-###StudentName
-
-##Mohamed Ramadan ElWakil
-
-##Khaled Ahmed Shehata 
+## Team :
+###### 1- Khaled Ahmed Shehata
+###### 2- Mohamed Ramadan Elwakil
